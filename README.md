@@ -5,4 +5,4 @@ i
 d
 e
 i
-<p>This is a new featur(dropdown)</p>
+<p>This is a new feature(dropdown)</p>
